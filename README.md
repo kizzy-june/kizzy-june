@@ -1,4 +1,5 @@
 #### helo pepl out there tis is my giuithbu readyou no wiat redame
+#### Expect most of my Java projects to be on Java 26 or later unless it's Minecraft mods
 #### cool shit paint showed me:
 ![Top Languages](https://ghstats.dev/api/langs?username=kizzy-june&theme=radical&max_langs=12&layout=horizontal_list)
 # 好东西，快看这个
